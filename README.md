@@ -12,7 +12,7 @@ The task was to create a web application for Vikerfjell, We could not use any ki
 ### Getting Started
 First you need permission to use this program. you need to send mail to support@bahaa.no for more details.
 
-* Applications including a HTML, CSS, PHP & JAVESCREIPT file. Get startet by clone or download project. 
+Applications including a HTML, CSS, PHP & JAVESCREIPT file. Get startet by clone or download project. 
 
 
 ### Git
